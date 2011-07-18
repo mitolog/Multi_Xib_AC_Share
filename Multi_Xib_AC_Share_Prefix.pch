@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Multi_Xib_AC_Share' target in the 'Multi_Xib_AC_Share' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
